@@ -1,0 +1,8 @@
+Ulysses,James Joyce,1922
+The Great Gatsby,F. Scott Fitzgerald,1925
+Lolita,Vladimir Nabokov,1955
+Brave New World,Aldous Huxley,1932
+Catch-22,Joseph Heller,1961
+Sons and Lovers,D. H. Lawrence,1913
+The Grapes of Wrath,John Steinbeck,1939
+Pride and Prejudice,Jane Austen,1813
